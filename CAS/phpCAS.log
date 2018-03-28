@@ -1,0 +1,40 @@
+261E .START (2018-03-28 19:27:46) phpCAS-1.3.5+ ****************** [CAS.php:468]
+261E .=> phpCAS::client('2.0', NULL, NULL, NULL) [example.php:28]
+261E .|    => phpCAS::error('CAS_TypeMismatchException: type mismatched for parameter $server_hostname (should be \'string \'), NULL given. ') [CAS.php:362]
+261E .|    |    CAS_TypeMismatchException: type mismatched for parameter $server_hostname (should be 'string '), NULL given.  in C:\xampp\htdocs\phpCAS-master\example.phpon line 28 [CAS.php:566]
+261E .|    <= ''
+C863 .START (2018-03-28 19:43:28) phpCAS-1.3.5+ ****************** [CAS.php:468]
+C863 .=> phpCAS::client('2.0', NULL, NULL, NULL) [example.php:28]
+C863 .|    => phpCAS::error('CAS_TypeMismatchException: type mismatched for parameter $server_hostname (should be \'string \'), NULL given. ') [CAS.php:362]
+C863 .|    |    CAS_TypeMismatchException: type mismatched for parameter $server_hostname (should be 'string '), NULL given.  in C:\xampp\htdocs\phpCAS-master\example.phpon line 28 [CAS.php:566]
+C863 .|    <= ''
+69BE .START (2018-03-28 19:43:31) phpCAS-1.3.5+ ****************** [CAS.php:468]
+69BE .=> phpCAS::client('2.0', NULL, NULL, NULL) [example.php:28]
+69BE .|    => phpCAS::error('CAS_TypeMismatchException: type mismatched for parameter $server_hostname (should be \'string \'), NULL given. ') [CAS.php:362]
+69BE .|    |    CAS_TypeMismatchException: type mismatched for parameter $server_hostname (should be 'string '), NULL given.  in C:\xampp\htdocs\phpCAS-master\example.phpon line 28 [CAS.php:566]
+69BE .|    <= ''
+74DB .START (2018-03-28 19:45:31) phpCAS-1.3.5+ ****************** [CAS.php:468]
+74DB .=> phpCAS::client('2.0', NULL, NULL, NULL) [example.php:28]
+74DB .|    => phpCAS::error('CAS_TypeMismatchException: type mismatched for parameter $server_hostname (should be \'string \'), NULL given. ') [CAS.php:362]
+74DB .|    |    CAS_TypeMismatchException: type mismatched for parameter $server_hostname (should be 'string '), NULL given.  in C:\xampp\htdocs\phpCAS-master\example.phpon line 28 [CAS.php:566]
+74DB .|    <= ''
+BD8D .START (2018-03-28 19:47:21) phpCAS-1.3.5+ ****************** [CAS.php:468]
+BD8D .=> phpCAS::client('2.0', NULL, NULL, NULL) [example.php:28]
+BD8D .|    => phpCAS::error('CAS_TypeMismatchException: type mismatched for parameter $server_hostname (should be \'string \'), NULL given. ') [CAS.php:362]
+BD8D .|    |    CAS_TypeMismatchException: type mismatched for parameter $server_hostname (should be 'string '), NULL given.  in C:\xampp\htdocs\phpCAS-master\example.phpon line 28 [CAS.php:566]
+BD8D .|    <= ''
+CE0A .START (2018-03-28 19:47:24) phpCAS-1.3.5+ ****************** [CAS.php:468]
+CE0A .=> phpCAS::client('2.0', NULL, NULL, NULL) [example.php:28]
+CE0A .|    => phpCAS::error('CAS_TypeMismatchException: type mismatched for parameter $server_hostname (should be \'string \'), NULL given. ') [CAS.php:362]
+CE0A .|    |    CAS_TypeMismatchException: type mismatched for parameter $server_hostname (should be 'string '), NULL given.  in C:\xampp\htdocs\phpCAS-master\example.phpon line 28 [CAS.php:566]
+CE0A .|    <= ''
+B758 .START (2018-03-28 19:47:25) phpCAS-1.3.5+ ****************** [CAS.php:468]
+B758 .=> phpCAS::client('2.0', NULL, NULL, NULL) [example.php:28]
+B758 .|    => phpCAS::error('CAS_TypeMismatchException: type mismatched for parameter $server_hostname (should be \'string \'), NULL given. ') [CAS.php:362]
+B758 .|    |    CAS_TypeMismatchException: type mismatched for parameter $server_hostname (should be 'string '), NULL given.  in C:\xampp\htdocs\phpCAS-master\example.phpon line 28 [CAS.php:566]
+B758 .|    <= ''
+CAC9 .START (2018-03-28 19:47:57) phpCAS-1.3.5+ ****************** [CAS.php:468]
+CAC9 .=> phpCAS::client('2.0', NULL, NULL, NULL) [example.php:28]
+CAC9 .|    => phpCAS::error('CAS_TypeMismatchException: type mismatched for parameter $server_hostname (should be \'string \'), NULL given. ') [CAS.php:362]
+CAC9 .|    |    CAS_TypeMismatchException: type mismatched for parameter $server_hostname (should be 'string '), NULL given.  in C:\xampp\htdocs\phpCAS-master\example.phpon line 28 [CAS.php:566]
+CAC9 .|    <= ''
